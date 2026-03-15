@@ -4,24 +4,17 @@
 The following models were trained and evaluated:
 
 Random Forest
-
 Gradient Boosting
-
 Support Vector Machine (SVM)
-
 K-Nearest Neighbors (KNN)
 
 **Model Evaluation**
 Model performance was evaluated using:
 
 Accuracy
-
 Precision
-
 Recall
-
 F1 Score
-
 Confusion Matrix
 
 Among all models, **Random Forest** achieved the highest accuracy of **99.9%**, making it the best-performing model for this dataset.
@@ -30,9 +23,7 @@ Among all models, **Random Forest** achieved the highest accuracy of **99.9%**, 
 To understand model predictions, the following techniques were used:
 
 Feature Importance
-
 SHAP Analysis
-
 Stability Analysis
 
 These methods helped identify important features affecting machine failure.
@@ -42,7 +33,7 @@ These methods helped identify important features affecting machine failure.
 The results show that machine learning models can effectively predict machine failures.
 Predictive maintenance systems can help industries reduce unexpected equipment breakdowns, optimize maintenance schedules, and improve operational efficiency.
 
-Future Work
+**Future Work**
 
 Integrate real-time IoT sensor data.
 
